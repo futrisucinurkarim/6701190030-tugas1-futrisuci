@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Belajar Memebuat Tabel HTML</title>
+</head>
+<body>
+
+<table border="1" cellpadding="10">
+	<tr>
+		<td>Nama : Futri Suci Nurkarim</td>
+		<td> TTL : Sarikuning, 23 November 2000</td>
+		<td>Usia : 20 Tahun</td>
+	</tr>
+	<tr>
+		<td>Nim : 6701190030</td>
+		<td> Kelas : D3SI43-04</td>
+		<td> Prodi : D3 Sisem Informasi , Fakultas Ilmu Terapan</td>
+	</tr>
+		<td> IPK : 3,26</td>
+		<td> Dosen Wali : Suryatiningsih, S.T.,M.T., OCA</td>
+	</table>
+</body>
+</html>
+
